@@ -1,7 +1,7 @@
 ## 执着于学习和唱歌的lllzq
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=立志每天学习!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20chillyjing!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=header&text=立志每天学习!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20lllzq!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 
 <p align="center">
